@@ -1,0 +1,13 @@
+.search_box{
+    height: 50px;
+    width: 400px;
+    font-size: 25px;
+    padding: 5px;
+    outline: none;
+}
+.search_boxdiv{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+}
